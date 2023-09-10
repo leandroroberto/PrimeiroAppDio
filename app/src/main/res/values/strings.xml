@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Aplicativo SmartSolutions</string>
+    <string name="titulo_app" translatable="false">Seja bem vindo ao SmartSolutions</string>
+    <string name="info_app" translatable="false">
+        Esse é um aplicativo que irá te auxiliar nas soluções do dia-a-dia tornando seu trabalho bem mais produtivo
+    </string>
+</resources>

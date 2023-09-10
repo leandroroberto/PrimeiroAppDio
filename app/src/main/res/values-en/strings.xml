@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartSolutions App</string>
+    <string name="titulo_app">Welcome to SmartSolutions</string>
+    <string name="info_app" translatable="false">
+        This is an application that will help you with day-to-day solutions, making your work much more productive.
+    </string>
+</resources>
